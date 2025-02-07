@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SupportEngineQA_afbb05017c41457d42c1bd46cf5a8d091
+  m_EditorClassIdentifier: 
+  m_GroupName: SupportEngineQA_afbb05017c41457d42c1bd46cf5a8d091
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cb51410126d2f7740bf5f1144eeaeb9c
+  m_SerializeEntries:
+  - m_GUID: 40419354ab6beaa46a94d8216bb712d6
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06cd4556526e54c48835411ba7cce244
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15fffd96ba9ad264881fd72ccf67da6c
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 926cf494a3d41a140ac6903b1d2a54c7
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a43cd020ed8479849823aac0fb12b1de
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f5a80545cb37e34a9f5dd2b986a2af1
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d313ae45539fa324699af72f5bdd106b
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67906e9da3a0dae48b321b106d78d1f5
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50049611c65d1ba408f38edfe707e11d
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bdabe3984f9d904396416da83181c28
+    m_Address: Assets/Textures/afbb05017c41457d42c1bd46cf5a8d09/ProceduralTexture_afbb05017c41457d42c1bd46cf5a8d09_10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b1eff1ef08661f748bf36e6eece7cfee, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 67a04a563377ac643b7cf32e7573b58d, type: 2}
+    - {fileID: 11400000, guid: 264e7194a826e324bbee7a4ae657b71d, type: 2}
